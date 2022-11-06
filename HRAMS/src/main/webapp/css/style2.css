@@ -1,0 +1,68 @@
+.card{
+    color: white;
+    text-align: center;
+    height: 10rem;
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 6px 7px 4px grey;
+}
+.card#c1{
+    background-color: #d34b33;
+}
+
+.card#c2{
+    background-color: #35b681;
+}
+
+.card#c3{
+    background-color: #ffa701;
+}
+.card#c4{
+    background-color: #232238;
+    font-size: 0.5rem;
+}
+
+.card#c5{
+    background-color: #232238;
+    font-size: 0.5rem;
+}
+
+.card#c6{
+    background-color: #232238;
+    font-size: 0.5rem;
+}
+.card h5{
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.card #p1,#p2,#p3
+{
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+.card h4{
+    color: white;
+    font-size: 1.2rem;
+    /* font-weight: 700; */
+}
+body{
+    background-color: white;
+}
+h3{
+    margin: 1rem 2rem;
+    font-family: 'Patua One';
+    font-weight: 800;
+    font-size: 2.2rem;
+}
+table{
+    margin: 2rem 6rem;
+
+}
+
+.fa-solid{
+    margin-right:20px ;
+}

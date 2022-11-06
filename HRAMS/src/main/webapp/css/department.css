@@ -1,0 +1,52 @@
+h3{
+    margin: 1rem 2rem;
+    font-family: 'Patua One';
+    font-weight: 800;
+    font-size: 3.2rem;
+}   
+table{
+    margin:  4.5rem 0rem;
+    text-align: center;
+}
+.card{
+    margin-top: 1rem;
+    margin-left: 6rem;
+    background-color: #232238;
+    color: white;
+    text-align: center;
+    height: 12rem;
+    font-size: 1.5rem;
+    /* margin: 1rem; */
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 6px 7px 4px grey;
+}
+h5{
+    color: black;
+    font-size: 2rem;
+    margin: 2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.card-title{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+i{
+    margin-right: 1rem;
+}
+button#add{
+    margin-top: 9rem;
+    margin-left: 26rem;
+    width: 35%;
+    background-color:  #5DA7DB;
+    border-color: 	#5DA7DB;
+    height: 3.6rem;
+    size: 5rem;
+    color:  white;
+    font-size: 1.5rem;
+}
+
+form{
+    margin-left: 2rem;
+}

@@ -1,0 +1,10 @@
+body{
+    background-image: url(/images/form.jpg);
+    
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fa-solid{
+    color:black;
+    size: 2rem;
+}

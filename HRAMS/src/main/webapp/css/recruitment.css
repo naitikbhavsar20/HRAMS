@@ -1,0 +1,76 @@
+h3{
+    margin: 1rem 2rem;
+    font-family: 'Patua One';
+    font-weight: 800;
+    font-size: 3.2rem;
+}  
+table{
+    margin:  4.5rem 0rem;
+    /* text-align: center; */
+}
+
+i{
+    margin-right: 1rem;
+}
+
+a#new{
+    /* margin-top: 0rem; */
+    margin-left: 14rem;
+    width: 50%;
+    background-color:  #5DA7DB;
+    border-color: 	#5DA7DB;
+    height: 3.6rem;
+    size: 5rem;
+    color:  white;
+    font-size: 1.5rem;
+}
+.form label{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+.form select{
+    margin-left: 1rem;
+    border-color: grey;
+    border-radius: 5px;
+    width: 50%;
+}
+button{
+    margin: 5px;
+}
+
+#offcanvasTop{
+    background-image: url(/images/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: inherit;
+    opacity: 0.9;
+}
+
+select#s1{
+    height: 2rem;
+    width: 50%;
+}
+button#browse{
+    height: 2rem;
+    width: 50%;
+}
+textarea{
+    margin-left: 1rem;
+}
+.row{
+    margin: 20px;
+    padding: 10px;
+}
+
+button#su{
+    width: 50%;
+}
+
+h5#offcanvasTopLabel{
+    
+    font-family: 'Patua One';
+    font-size: 2.5rem;
+    font-weight: 700;
+}

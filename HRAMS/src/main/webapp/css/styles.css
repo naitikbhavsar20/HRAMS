@@ -1,0 +1,48 @@
+.navbar{
+  padding: 1rem 1rem;
+}
+.navbar a{
+  font-family: 'Allerta Stencil', sans-serif;
+  /* font-family: 'Ultra', serif; */
+  font-weight: 800;
+  font-size: 1.6rem;
+}
+.navbar h3{
+  color: #EEEEEE;
+  font-family: 'Allerta Stencil', sans-serif;
+  /* font-family: 'Allerta Stencil', sans-serif;
+  font-family: 'Ultra', serif; */
+}
+.btn-danger{
+  background: #277BC0;
+  border: #277BC0;
+  font-family: verdana;
+}
+
+.left-sidebar{
+  background-color: red;
+  height: 50rem;
+  width: 17%;
+}
+main {
+  padding-top: 90px;
+}
+body{
+  background-color:  #8BBCCC;
+}
+frame{
+  
+  background-color: #FFF7E9;
+}
+.list a{
+  color: #181818;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
+  padding: 10px 100px 10px 20px;
+  background-color: #8BBCCC;
+  width: 100%;
+  border-radius: 0px;
+  border: 0px;
+}

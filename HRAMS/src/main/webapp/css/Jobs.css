@@ -1,0 +1,19 @@
+h3{
+    margin: 1rem 2rem;
+    font-family: 'Patua One';
+    font-weight: 800;
+    font-size: 3rem;
+}  
+.fa-solid{
+    margin-right: 1rem;
+}
+.card{
+    margin: 3rem;
+    background-color: rgb(246, 246, 246);
+     border-radius: 10px;
+     border-color: black;
+     border: 5px;
+    box-shadow: 6px 7px 4px grey;
+    /* margin: 2rem; */
+    padding: 2rem;
+}
